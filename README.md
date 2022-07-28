@@ -6,8 +6,26 @@ I'll put all my demo configs and any Home Assistant projects code here. Use at o
 
 My Set Up <br>
 HA Setup Hardware:<br>
+Home built Unraid Server V - 6.10
+  - 21 TB Storage
+  - 96 GB DDR4
+  - NVIDIA GeForce RTX 3060	
+  - AMD Ryzen 5 5600G with Radeon Graphics @ 3900 MHz
+  - ASUSTeK COMPUTER INC. TUF GAMING X570-PRO (WI-FI) 
+  - Ethernet 1000Mbps
+Home Assistant VM haos_ova_7.4
+
 Network:
 - LAN/WAN
+-   Internet AT&T Fiber 1GB
+-   Controller
+-     Unifi Dream Machine UniFi OS UDM Pro 1.11.4
+-   Switches
+-     USW-Lite-16-PoE
+-     USW-Flex-Mini
+-   Access Points
+-     U6-LR
+-     2X U6-Lite
 - Zigbee
 - ZWave
 

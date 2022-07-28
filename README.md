@@ -16,8 +16,22 @@ Domains:
   - Bulbs
   - Strips
   - Other
-- Motion
-- Contact Sensors
 - Remotes
 - Outlets / Power Monitoring
 - Cameras
+- alarm_control_panel
+- automation 
+- input_boolean -
+- remote 
+- script
+- binary_sensor
+- climate
+- cover
+- device_tracker
+- fan
+- lock
+- media_player
+- sensor
+  - Contact
+  - Motion 
+- switch

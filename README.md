@@ -31,6 +31,6 @@ Domains:
 - remote
 - script
 - sensor
-- Contact
-- Motion
+  - contact
+  - motion
 - switch

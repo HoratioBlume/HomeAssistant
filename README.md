@@ -12,26 +12,25 @@ Network:
 - ZWave
 
 Domains:
-- Lights:
-  - Bulbs
-  - Strips
-  - Other
-- Remotes
-- Outlets / Power Monitoring
-- Cameras
 - alarm_control_panel
-- automation 
-- input_boolean -
-- remote 
-- script
+- automation
 - binary_sensor
+- cameras
 - climate
 - cover
 - device_tracker
 - fan
+- Input_boolean -
+- lights
+  - Bulbs
+  - Strips
+  - Other
 - lock
 - media_player
+- Outlets / Power Monitoring
+- remote
+- script
 - sensor
-  - Contact
-  - Motion 
+- Contact
+- Motion
 - switch
